@@ -4,11 +4,16 @@ equipment
 1.NodeMCU ESP8266 V3
 
 2.Arduino UNO R3
+
 3.Ultrasonic Module
+
 4.relay module 5V
+
 5.เครื่องทำควัน รุ่น HQ 105
+
 6.DHT22
 
+BY. Prab
 _______________________________
 
 Design App
