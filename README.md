@@ -1,6 +1,7 @@
 # Project_CPE
 
-equipment
+# equipment
+
 1.NodeMCU ESP8266 V3
 
 2.Arduino UNO R3
