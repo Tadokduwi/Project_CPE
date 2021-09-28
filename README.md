@@ -24,7 +24,6 @@
 <html><body>
 <LEFT><IMG SRC="https://th-test-11.slatic.net/p/19a4c02c30526fe5b3e5b7e3ccf6c7ce.jpg" ></LEFT>
 </body></html>
-
  
   
   
@@ -33,5 +32,5 @@
   
 Design 3D 
 <html><body>
-<LEFT><IMG SRC="https://www.i-pic.info/i/7AG471551" ></LEFT>
+<LEFT><IMG SRC="https://www.i-pic.info/i/7AG471551.png" ></LEFT>
 </body></html>
