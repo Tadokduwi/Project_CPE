@@ -31,6 +31,11 @@
   
   
 Design 3D 
-<html><body>![3D Design](https://user-images.githubusercontent.com/90261344/135102552-705cf44f-d282-4414-aa46-eb2cf9465e88.png)
-![3D Design2](https://user-images.githubusercontent.com/90261344/135102594-912e19e1-4cd7-43d7-af45-cfb7ec0b0093.png)
+<html><body>
+<LEFT><IMG SRC="https://user-images.githubusercontent.com/90261344/135102552-705cf44f-d282-4414-aa46-eb2cf9465e88.png" ></LEFT>
+</body></html>
+ <html><body>
+<LEFT><IMG SRC="https://user-images.githubusercontent.com/90261344/135102594-912e19e1-4cd7-43d7-af45-cfb7ec0b0093.png" ></LEFT>
+</body></html>
+ 
 
