@@ -17,7 +17,7 @@
 7.Jumper Wire
 
 BY. Prab
-_______________________________
+
 
 # Design App
 
@@ -31,7 +31,6 @@ https://colorhunt.co/palette/f4f4f2e8e8e8bbbfca495464?fbclid=IwAR3Blcw16rQfyrjg4
 
 by. Kornkanok
 
-_______________________________
 
 # UI
 
@@ -39,7 +38,6 @@ _______________________________
 
 by. Ratha
 
----------------------------------------------------
 
 # Hardware Design
 
