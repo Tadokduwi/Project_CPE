@@ -19,7 +19,7 @@
 BY. Prab
 _______________________________
 
-Design App
+# Design App
 
 ![app design](https://user-images.githubusercontent.com/89897823/135192237-a0eb49f2-f5b2-4fe5-8e5d-07a3daf2f62a.jpg)
 
@@ -30,6 +30,7 @@ Color palette\
 https://colorhunt.co/palette/f4f4f2e8e8e8bbbfca495464?fbclid=IwAR3Blcw16rQfyrjg4WQ46ekMgfIkBVM8j8JTg_RObfQzftARd5O3C3005NQhttps://colorhunt.co/palette/f4f4f2e8e8e8bbbfca495464?fbclid=IwAR3Blcw16rQfyrjg4WQ46ekMgfIkBVM8j8JTg_RObfQzftARd5O3C3005NQ
 
 by. Kornkanok
+
 _______________________________
 
 # UI
@@ -38,12 +39,9 @@ _______________________________
 
 by. Ratha
 
-
 ---------------------------------------------------
 
-Hardware Design
-
-----------------------------------------------------
+# Hardware Design
 
 Prab Humidifier
 
