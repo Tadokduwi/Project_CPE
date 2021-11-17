@@ -1,6 +1,8 @@
 # Design App
-V.1
-![app design](https://user-images.githubusercontent.com/89897823/135192237-a0eb49f2-f5b2-4fe5-8e5d-07a3daf2f62a.jpg)
+<gift4412>
+
+V.1 ![app design](https://user-images.githubusercontent.com/89897823/135192237-a0eb49f2-f5b2-4fe5-8e5d-07a3daf2f62a.jpg)
+
 V.2 ![image](https://user-images.githubusercontent.com/89443207/140262768-e8e161d4-b014-49f0-95b2-cfd9a2fe6c8c.png)
 
 Reference\
