@@ -1,23 +1,25 @@
-# Project_CPE
+# Project_Prab Air humidifier
 
-# equipment
+Prab Air humidifier ระบบ IOT ควบคุมความชื้นเพื่อลดปัญหาสุขภาพที่เกิดจากความชื้นที่ไม่เหมาะสมต่อร่างกาย
 
-1.NodeMCU ESP8266 V3
+# Updated NEW! 
 
-2.Arduino UNO R3
+  - Hardware V.2
+  - Application V.1.4
+  - Databases V.0.5
 
-3.Ultrasonic Module
+# Main components
 
-4.relay module 5V
+  * Equipment
+    * NodeMCU ESP8266 V3
+    * Arduino UNO R3
+    * Ultrasonic Module
+    * Relay module 5V
+    * Smoke machine HQ 105
+    * DHT22
+    * Jumper Wire
 
-5.เครื่องทำควัน รุ่น HQ 105
-
-6.DHT22
-
-7.Jumper Wire
-
-BY. Prab
-
+<https://github.com/prab15889>
 
 # Design App
 V.1
