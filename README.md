@@ -1,16 +1,15 @@
 # Design App
 @gift4412
 
-V.1 ![app design](https://user-images.githubusercontent.com/89897823/135192237-a0eb49f2-f5b2-4fe5-8e5d-07a3daf2f62a.jpg)
-
-V.2 ![image](https://user-images.githubusercontent.com/89443207/140262768-e8e161d4-b014-49f0-95b2-cfd9a2fe6c8c.png)
+  - V.1 ![app design](https://user-images.githubusercontent.com/89897823/135192237-a0eb49f2-f5b2-4fe5-8e5d-07a3daf2f62a.jpg)
+  - V.2 ![image](https://user-images.githubusercontent.com/89443207/140262768-e8e161d4-b014-49f0-95b2-cfd9a2fe6c8c.png)
 
 # UI
 @Rozeailuz
 
-V.1 <img width="909" alt="UI App v 1" src="https://user-images.githubusercontent.com/89443207/135103986-3560eb42-fef3-45b3-8e39-c669b5507e77.png">
+  - V.1 <img width="909" alt="UI App v 1" src="https://user-images.githubusercontent.com/89443207/135103986-3560eb42-fef3-45b3-8e39-c669b5507e77.png">
 
-V.2 ![image](https://user-images.githubusercontent.com/89443207/140262834-3e127948-4cdb-49a2-8a8f-d2e2c346f196.png)
+  - V.2 ![image](https://user-images.githubusercontent.com/89443207/140262834-3e127948-4cdb-49a2-8a8f-d2e2c346f196.png)
 
 # Application(JavaScript, React Native)
 @gift4412 and @not192541
