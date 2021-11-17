@@ -10,7 +10,7 @@ Prab Air humidifier ระบบ IOT ควบคุมความชื้น�
 
 # Main components
 
-  * Equipment
+  * Equipment <prab15889>
     * NodeMCU ESP8266 V3
     * Arduino UNO R3
     * Ultrasonic Module
@@ -19,7 +19,18 @@ Prab Air humidifier ระบบ IOT ควบคุมความชื้น�
     * DHT22
     * Jumper Wire
 
-<https://github.com/prab15889>
+  * Program <everyone>
+    * Freecad
+    * Arduino
+    * Visual Studio Code
+    * React Native
+    * Firebase
+    * Android Studio
+    * Figma
+  
+  * Language <everyone>
+    * C++
+    * JavaScript
 
 # Design App
 V.1
