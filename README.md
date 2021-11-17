@@ -8,7 +8,7 @@
 <LEFT><IMG SRC="https://dw.lnwfile.com/_/dw/_raw/ov/07/cx.jpg" ></LEFT>
 </body></html>
  2.บอร์ดมาตรฐานESP 8266
-![258125259_618462609347347_6161550743317533655_n](https://user-images.githubusercontent.com/90262478/142230239-7736eb12-f481-49f9-9ba0-cf9beecf8153.png)
+![image](https://user-images.githubusercontent.com/90262478/142230239-7736eb12-f481-49f9-9ba0-cf9beecf8153.png)
 
 
  3.HC-06 Bluetooth Serial Module โมดูลสื่อสารบลูทูธ (HC-06 Slave Mode)
