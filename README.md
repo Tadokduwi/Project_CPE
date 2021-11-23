@@ -5,7 +5,7 @@ Prab Air humidifier ระบบ IOT ควบคุมความชื้น�
 # Updated NEW! 
 
   * Hardware V.2
-  * Application V.1.5 CHART!
+  * Application V.3 CHART!
   * Databases V.1
 
 # Main components
